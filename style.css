@@ -1389,6 +1389,16 @@
         .modal textarea {
             width: 90%;
         }
+       .modal .foot i {
+            border: 2px;
+            border-style: solid;
+            border-radius: 5px;
+            padding: 3px;
+            margin: 2PX;
+            width: 4vh;
+            height: 4vh;
+            font-size: 40px;
+        }
         .hello img {
             left: 30%;
             height: 25vh;
